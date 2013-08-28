@@ -1,7 +1,6 @@
-#!/usr/bin
+#!/bin/bash
 
-# You must set BOOK_HOME to the home folder for your book project
-# BOOK_HOME=$HOME/Projects/BookProjects/walls.sia4
+echo $BOOK_HOME
 
 MAKEPDF_HOME=$BOOK_HOME/AuthorInfo/AAMakePDF/
 
